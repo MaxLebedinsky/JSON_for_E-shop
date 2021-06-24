@@ -4,22 +4,26 @@
     {
       "id_product": 1,
       "product_name": "Snowboard",
-      "price": 1500
+      "price": 700,
+      "photo": "libtech-snowboard.jpg"
     },
     {
       "id_product": 2,
       "product_name": "Boots",
-      "price": 500
+      "price": 500,
+      "photo": "dc-judge-boa-boots.jpg"
     },
     {
       "id_product": 3,
       "product_name": "Bindings",
-      "price": 300
+      "price": 300,
+      "photo": "bent-metal-bindings.jpg"
     },
     {
       "id_product": 4,
       "product_name": "Helmet",
-      "price": 200
+      "price": 200,
+      "photo": "marker-clark-helmet.jpg"
     }
   ],
 "cart":
@@ -31,12 +35,14 @@
         "id_product": 2,
         "product_name": "Boots",
         "price": 500,
+        "photo": "dc-judge-boa-boots.jpg",
         "quantity": 1
       },
       {
         "id_product": 4,
         "product_name": "Helmet",
         "price": 200,
+        "photo": "marker-clark-helmet.jpg",
         "quantity": 2
       }
     ]
