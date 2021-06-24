@@ -1,25 +1,44 @@
 {
 "goods":
-[
+  [
+    {
+      "id_product": 1,
+      "product_name": "Snowboard",
+      "price": 1500
+    },
+    {
+      "id_product": 2,
+      "product_name": "Boots",
+      "price": 500
+    },
+    {
+      "id_product": 3,
+      "product_name": "Bindings",
+      "price": 300
+    },
+    {
+      "id_product": 2,
+      "product_name": "Helmet",
+      "price": 200
+    }
+  ],
+"cart":
   {
-    "id_product": 1,
-    "product_name": "Snowboard",
-    "price": 1500
-  },
-  {
-    "id_product": 2,
-    "product_name": "Boots",
-    "price": 500
-  },
-  {
-    "id_product": 3,
-    "product_name": "Bindings",
-    "price": 300
-  },
-  {
-    "id_product": 2,
-    "product_name": "Helmet",
-    "price": 200
+    "total": 900,
+    "countGoods": 3,
+    "content": [
+      {
+        "id_product": 2,
+        "product_name": "Boots",
+        "price": 500,
+        "quantity": 1
+      },
+      {
+        "id_product": 4,
+        "product_name": "Helmet",
+        "price": 200,
+        "quantity": 2
+      }
+    ]
   }
-]
 }
