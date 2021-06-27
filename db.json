@@ -3,27 +3,123 @@
   [
     {
       "id_product": 1,
-      "product_name": "Snowboard",
-      "price": 700,
-      "photo": "libtech-snowboard.jpg"
+      "category": "Snowboard",
+      "product_name": "Jamie Lynn C3",
+      "brand": "Lib Tech",
+      "price": 499,
+      "photo": "Lib Tech Jamie Lynn C3.jpg"
     },
     {
       "id_product": 2,
-      "product_name": "Boots",
-      "price": 500,
-      "photo": "dc-judge-boa-boots.jpg"
+      "category": "Snowboard",
+      "product_name": "Proto Slinger",
+      "brand": "Never Summer",
+      "price": 559,
+      "photo": "Never Summer Proto Slinger.jpg"
     },
     {
       "id_product": 3,
-      "product_name": "Bindings",
-      "price": 300,
-      "photo": "bent-metal-bindings.jpg"
+      "category": "Snowboard",
+      "product_name": "Drop",
+      "brand": "Nitro",
+      "price": 449,
+      "photo": "Nitro Drop.jpg"
     },
     {
       "id_product": 4,
-      "product_name": "Helmet",
-      "price": 200,
+      "category": "Boots",
+      "product_name": "Judge Boa",
+      "brand": "DC",
+      "price": 299,
+      "photo": "dc-judge-boa-boots.jpg"
+    },
+    {
+      "id_product": 5,
+      "category": "Boots",
+      "brand": "Burton",
+      "product_name": "Ruler Step On",
+      "price": 349,
+      "photo": "Burton-Felix-Step-On.jpg"
+    },
+    {
+      "id_product": 6,
+      "category": "Boots",
+      "brand": "K2",
+      "product_name": "Vandal",
+      "price": 249,
+      "photo": "K2 Vandal.jpg"
+    },
+    {
+      "id_product": 7,
+      "category": "Bindings",
+      "brand": "Bent Metal"
+      "product_name": "Transfer",
+      "price": 249,
+      "photo": "Bent Metal Transfer.jpg"
+    },
+    {
+      "id_product": 8,
+      "category": "Bindings",
+      "brand": "Flux"
+      "product_name": "DSL",
+      "price": 199,
+      "photo": "Flux DSL.jpg"
+    },
+    {
+      "id_product": 9,
+      "category": "Bindings",
+      "brand": "Roxy"
+      "product_name": "Viva",
+      "price": 199,
+      "photo": "roxy-viva-snowboard-bindings-women-s-2022-.jpg"
+    },
+    {
+      "id_product": 10,
+      "category": "Helmet",
+      "brand": "Marker"
+      "product_name": "Clark",
+      "price": 149,
       "photo": "marker-clark-helmet.jpg"
+    },
+    {
+      "id_product": 11,
+      "category": "Helmet",
+      "brand": "Giro"
+      "product_name": "Stellar",
+      "price": 189,
+      "photo": "Giro Stellar MIPS.jpg"
+    },
+    {
+      "id_product": 12,
+      "category": "Helmet",
+      "brand": "Atomic"
+      "product_name": "Count XTD",
+      "price": 169,
+      "photo": "Atomic Count XTD.jpg"
+    },
+    {
+      "id_product": 13,
+      "category": "Goggles",
+      "brand": "Atomic"
+      "product_name": "Revent OTG Stereo",
+      "price": 99,
+      "photo": "Atomic Revent OTG Stereo.jpg"
+    },
+    {
+      "id_product": 14,
+      "category": "Goggles",
+      "brand": "Giro"
+      "product_name": "Axis",
+      "price": 129,
+      "photo": "Giro Axis.jpg"
+    },
+    {
+      "id_product": 15,
+      "category": "Goggles",
+      "brand": "Oakley"
+      "product_name": "Flight Tracker XL",
+      "price": 149,
+      "photo": "Oakley Flight Tracker XL.jpg"
     }
   ],
 "cart":
@@ -32,17 +128,21 @@
     "countGoods": 3,
     "content": [
       {
-        "id_product": 2,
-        "product_name": "Boots",
-        "price": 500,
+        "id_product": 4,
+        "category": "Boots",
+        "product_name": "Judge Boa",
+        "brand": "DC",
+        "price": 299,
         "photo": "dc-judge-boa-boots.jpg",
         "quantity": 1
       },
       {
-        "id_product": 4,
-        "product_name": "Helmet",
-        "price": 200,
-        "photo": "marker-clark-helmet.jpg",
+        "id_product": 12,
+        "category": "Helmet",
+        "brand": "Atomic"
+        "product_name": "Count XTD",
+        "price": 169,
+        "photo": "Atomic Count XTD.jpg",
         "quantity": 2
       }
     ]
