@@ -52,7 +52,7 @@
     {
       "id_product": 7,
       "category": "Bindings",
-      "brand": "Bent Metal"
+      "brand": "Bent Metal",
       "product_name": "Transfer",
       "price": 249,
       "photo": "Bent Metal Transfer.jpg"
@@ -60,7 +60,7 @@
     {
       "id_product": 8,
       "category": "Bindings",
-      "brand": "Flux"
+      "brand": "Flux",
       "product_name": "DSL",
       "price": 199,
       "photo": "Flux DSL.jpg"
@@ -68,7 +68,7 @@
     {
       "id_product": 9,
       "category": "Bindings",
-      "brand": "Roxy"
+      "brand": "Roxy",
       "product_name": "Viva",
       "price": 199,
       "photo": "roxy-viva-snowboard-bindings-women-s-2022-.jpg"
@@ -76,7 +76,7 @@
     {
       "id_product": 10,
       "category": "Helmet",
-      "brand": "Marker"
+      "brand": "Marker",
       "product_name": "Clark",
       "price": 149,
       "photo": "marker-clark-helmet.jpg"
@@ -84,7 +84,7 @@
     {
       "id_product": 11,
       "category": "Helmet",
-      "brand": "Giro"
+      "brand": "Giro",
       "product_name": "Stellar",
       "price": 189,
       "photo": "Giro Stellar MIPS.jpg"
@@ -92,7 +92,7 @@
     {
       "id_product": 12,
       "category": "Helmet",
-      "brand": "Atomic"
+      "brand": "Atomic",
       "product_name": "Count XTD",
       "price": 169,
       "photo": "Atomic Count XTD.jpg"
@@ -100,7 +100,7 @@
     {
       "id_product": 13,
       "category": "Goggles",
-      "brand": "Atomic"
+      "brand": "Atomic",
       "product_name": "Revent OTG Stereo",
       "price": 99,
       "photo": "Atomic Revent OTG Stereo.jpg"
@@ -108,7 +108,7 @@
     {
       "id_product": 14,
       "category": "Goggles",
-      "brand": "Giro"
+      "brand": "Giro",
       "product_name": "Axis",
       "price": 129,
       "photo": "Giro Axis.jpg"
@@ -116,7 +116,7 @@
     {
       "id_product": 15,
       "category": "Goggles",
-      "brand": "Oakley"
+      "brand": "Oakley",
       "product_name": "Flight Tracker XL",
       "price": 149,
       "photo": "Oakley Flight Tracker XL.jpg"
@@ -139,7 +139,7 @@
       {
         "id_product": 12,
         "category": "Helmet",
-        "brand": "Atomic"
+        "brand": "Atomic",
         "product_name": "Count XTD",
         "price": 169,
         "photo": "Atomic Count XTD.jpg",
